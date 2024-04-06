@@ -5,4 +5,4 @@ To know about schema and data description, please refer to the official document
 
 Kindly utilize the "Downloading GhArchive Dataset.ipynb" file included to download the necessary data and make modifications according to your needs.
 
-Due to its substantial size of approximately 420 MB, GitHub restrictions prevent the uploading of the file. To view a file ( first look of data), please access the file stored at the following location:  https://drive.google.com/file/d/11lUM4tU1sRsgMwvE-AFwkWKnW9vpS_r3/view?usp=drive_link
+Due to its substantial size of approximately 420 MB (single file size (repo updates in an hour)), GitHub restrictions prevent the uploading of the file. To view a file ( first look of data), please access the file stored at the following location:  https://drive.google.com/file/d/11lUM4tU1sRsgMwvE-AFwkWKnW9vpS_r3/view?usp=drive_link
