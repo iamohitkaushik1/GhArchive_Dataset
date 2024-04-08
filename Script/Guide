@@ -1,9 +1,0 @@
-The updated script in the file "GhArchive Data.ipynb" has been enhanced to handle connection errors and support partial downloads. In the event of errors causing partial downloads, the script now automatically skips those files. Additionally, it includes functionality to create directories if they are not available.
-To adjust the script for a different month, you can modify the `month` parameter in the `download_day` function call to the desired month. Additionally, ensure to update the loop range to iterate over the correct number of days available in that particular month.
-
-For example, if you want to download data for September 2023, which has 30 days, you can make the following changes:
-
-1. Update the `month` parameter in the `download_day` function call to 9 for September.
-2. Update the loop range in the script to iterate over 30 days (from 1 to 30) for September.
-
-By making these adjustments, the script will be tailored to download data for the specified month with the appropriate number of days.
