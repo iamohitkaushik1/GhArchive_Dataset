@@ -7,4 +7,4 @@ Kindly utilize the "Downloading GhArchive Dataset.ipynb" file included to downlo
 
 Due to its substantial size of approximately 420 MB (single file size (repos updates in an hour)), GitHub restrictions prevent the uploading of the file. To view a file ( first look of data), please access the file stored at the following location:  https://drive.google.com/file/d/11lUM4tU1sRsgMwvE-AFwkWKnW9vpS_r3/view?usp=drive_link
 
-Follow Script to preprocess the data in Demo_Processed_Files&Script directory.
+Follow Script to preprocess the data in Demo_Processed_Files&Script directory (Demo_Processed_Files&Script/Processing_Json_Data.ipynb).
